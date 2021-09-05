@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [17.2.0](https://www.github.com/yargs/yargs/compare/v17.1.1...v17.2.0) (2021-09-05)
+
+
+### Features
+
+* autocomplete choices for options ([#2018](https://www.github.com/yargs/yargs/issues/2018)) ([01b2c6a](https://www.github.com/yargs/yargs/commit/01b2c6a99167d826d3d1e6f6b94f18382a17d47e))
+
+
+### Bug Fixes
+
+* cast error types as TypeScript 4.4 infers them as unknown instead of any ([#2016](https://www.github.com/yargs/yargs/issues/2016)) ([01b2c6a](https://www.github.com/yargs/yargs/commit/01b2c6a99167d826d3d1e6f6b94f18382a17d47e))
+* emit warning on version name collision ([#1986](https://www.github.com/yargs/yargs/issues/1986)) ([d0e8292](https://www.github.com/yargs/yargs/commit/d0e829239580bd44873bbde65de2ed7671aa2ab0))
+* help command spacing when scriptName is empty ([#1994](https://www.github.com/yargs/yargs/issues/1994)) ([d33e997](https://www.github.com/yargs/yargs/commit/d33e9972291406490cd8fdad0b3589be234e0f12))
+
 ### [17.1.1](https://www.github.com/yargs/yargs/compare/v17.1.0...v17.1.1) (2021-08-13)
 
 
